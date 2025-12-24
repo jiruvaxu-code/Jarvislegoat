@@ -1,0 +1,8 @@
+# Ignorer tout ce qui n'est pas le site
+../../memory/
+../../*.db
+../../*.pyc
+../../__pycache__/
+../../.env
+../../venv/
+../../.git/
